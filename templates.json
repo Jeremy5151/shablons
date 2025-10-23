@@ -36,10 +36,10 @@
       "tags": ["easyai", "broker", "leads"]
     },
     {
-      "id": "altercpa-red",
-      "name": "AlterCPA Red",
+      "id": "altercpa",
+      "name": "AlterCPA",
       "version": "1.0.0",
-      "description": "AlterCPA Red affiliate network integration for lead submission and status pulling",
+      "description": "AlterCPA affiliate network integration for lead submission and status pulling",
       "category": "broker",
       "tags": ["altercpa", "broker", "leads", "cpa"]
     }
