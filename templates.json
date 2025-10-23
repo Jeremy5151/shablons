@@ -26,6 +26,22 @@
       "category": "email",
       "icon": "📧",
       "tags": ["mailchimp", "email", "marketing"]
+    },
+    {
+      "id": "easyai-market",
+      "name": "EasyAI Market",
+      "version": "1.0.0",
+      "description": "EasyAI Market affiliate integration with status pulling",
+      "category": "broker",
+      "tags": ["easyai", "broker", "leads"]
+    },
+    {
+      "id": "altercpa-red",
+      "name": "AlterCPA Red",
+      "version": "1.0.0",
+      "description": "AlterCPA Red affiliate network integration for lead submission and status pulling",
+      "category": "broker",
+      "tags": ["altercpa", "broker", "leads", "cpa"]
     }
   ]
 }
